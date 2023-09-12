@@ -24,6 +24,6 @@ How to make a website accessible and how to properly use CSS and HTML semantics.
 
 ## Usage 
 In VS code or selected IDE you will want to open the index.HTML file in a live server or deafult browser (if live server extention is not available). Once open right click page and select "inspect". View the source code and style sheets here is where you will find accessibility and proper semantics. (View Image for details.)
- ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+```md ![alt-text](assets/images/Screenshot%202023-09-11%20195223.png)```
+ 
+ 
