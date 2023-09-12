@@ -22,4 +22,8 @@ How to make a website accessible and how to properly use CSS and HTML semantics.
 3. Paste the copied repo and move these assets into the directory you created.
 4. Go to VS Code or chosen IDE select "file" then "open file" find the directory file created and open. ( This is where you will open the index.html and style.css.)
 
-## Usage
+## Usage 
+In VS code or selected IDE you will want to open the index.HTML file in a live server or deafult browser (if live server extention is not available). Once open right click page and select "inspect". View the source code and style sheets here is where you will find accessibility and proper semantics. (View Image for details.)
+ ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
